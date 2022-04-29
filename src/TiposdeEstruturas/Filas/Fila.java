@@ -1,6 +1,6 @@
-package Dados.Filas;
+package TiposdeEstruturas.Filas;
 
-import Dados.Pilhas.Pilha;
+import TiposdeEstruturas.Pilhas.Pilha;
 
 public class Fila {
     private int vetor[];

@@ -1,4 +1,4 @@
-package Dados.ListaEncadeada;
+package TiposdeEstruturas.Listas.ListaEncadeada;
 
 public class No {
     private int dado;

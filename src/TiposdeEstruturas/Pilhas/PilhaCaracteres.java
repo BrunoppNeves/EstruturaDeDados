@@ -1,4 +1,4 @@
-package Dados.Pilhas;
+package TiposdeEstruturas.Pilhas;
 
 public class PilhaCaracteres {
     private String vetor[];
